@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    
+    
+    text-align: center;
+}
+
+.title{
+font-size: large;
+color: wheat;
+background: #B45F4D;
+padding: 0px 10px 0px 35px;
+}
+
+.text{
+    color: white;
+    background: rgb(170, 150, 112);
+}
+
+section p{
+    padding-top: 10px;
+}
+
+section h2{
+    padding-top: 30px;
+}
+
+section button{
+    padding-top: 15px;
+}
+
+.container{
+    width: 1220px;
+    background: ;
+}
+
+.bottle{
+    background: rgb(246,244,236);
+}
+
+.bottle-title{
+    text-align:left;
+    color: #B45F4D;
+    
+}
+.bottle .card{
+    width: 300px;
+    color: #B45F4D;
+
+}
+
+.bottle .card img{
+    width: 100px;
+}
+.bottle .card h3{
+
+}
